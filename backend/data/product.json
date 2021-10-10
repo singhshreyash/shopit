@@ -1,0 +1,52 @@
+[
+    {
+        "name": "SanDisk Ultra Pen-drive 128 GB",
+        "price": "45.59",
+        "description": "Sandisk pendrive test description",
+        "rating": 4.5,
+        "images": [
+            {
+            "public_id": "products/41ghxGOSK3L",
+            "url": "https://m.media-amazon.com/images/I/41ghxGOSK3L._AC_SS450_.jpg"
+            }
+        ],  
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Full Cotton Shirt",
+        "price": "5.59",
+        "description": "Cotton Shirt test description",
+        "rating": 3.5,
+        "images": [
+            {
+            "public_id": "products/ANd9GcSsn_w-YV7MCMmIidEmx7-eS4lGqQTwIGXUNQ",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsn_w-YV7MCMmIidEmx7-eS4lGqQTwIGXUNQ&usqp=CAU"
+            }
+        ],  
+        "category": "Clothing/Shoes",
+        "seller": "Amazon",
+        "stock": 100,
+        "numOfReviews": 15,
+        "reviews": []
+    },{
+        "name": "Camera DSLR 21 MP",
+        "price": "65.59",
+        "description": "Camera DSLR 21 MP test description",
+        "rating": 5,
+        "images": [
+            {
+            "public_id": "products/ANd9GcQlFSLYlzUwTOz34TWbrUPzFLmd49gu7c-eSg",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFSLYlzUwTOz34TWbrUPzFLmd49gu7c-eSg&usqp=CAU"
+            }
+        ],  
+        "category": "Media",
+        "seller": "Flipkart",
+        "stock": 10,
+        "numOfReviews": 56,
+        "reviews": []
+    }
+]
